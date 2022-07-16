@@ -13,7 +13,7 @@ export default function Home() {
         init(textRef.current, { 
             showCursor: true, 
             backDelay: 1000,
-            strings: ["Full Stack Web Developer", "Competitive Coder"] 
+            strings: ["Software Developer", "Competitive Coder"] 
         })
     }, [])
 
@@ -27,7 +27,7 @@ export default function Home() {
             <div className="right">
                 <div className="wrapHeading">
                     <h2>Hi There, I'm</h2>
-                    <h1>Aman Gupta</h1>
+                    <h1>Nitu Rani</h1>
                     <h3><span ref={textRef}></span></h3>
                 </div>
                 <div style={{margin: "20px 50px"}}>

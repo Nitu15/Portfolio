@@ -10,7 +10,7 @@ export default function About() {
             <div className="a-wrapper">
                 <div className="a-left">
                     <div className="l-circle">
-                        <img className="l-img" src="assets/my2.jpg" alt="nituPic" />
+                        <img className="l-img" src="assets/nituPic.jpeg" alt="nituPic" />
                     </div>
                     <h1 className="l-heading">Nitu Rani</h1>
                     <p className="l-para">Student</p>
@@ -20,7 +20,7 @@ export default function About() {
                 </div>
                 <div className="a-right">
                     <h1 className="r-heading">About Me</h1>
-                    <p className="r-para">I am a 3rd year student at National Institute of Technology Agatala, pursuing B.Tech in Electrical Engineering. 
+                    <p className="r-para">I am a 4th year student at National Institute of Technology Agatala, pursuing B.Tech in Electrical Engineering. 
                     I’m proficient in HTML, CSS, JavaScript, and Bootstrap and have intermediate-level proficiency in ReactJs, Node.js and MongoDB.
                     </p>
                     <h1 className="r-heading">Education</h1>

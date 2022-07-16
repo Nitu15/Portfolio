@@ -90,17 +90,17 @@ export const products = [
     {
         id: 1,
         img: "assets/ecommerce-img1.png",
-        link: "https://github.com/aman71010/Ecommerce-Mern"
+        //link: "https://github.com/aman71010/Ecommerce-Mern"
     },
     {
         id: 2,
         img: "assets/image1.png",
-        link: "https://github.com/aman71010/Keeper-app"
+        //link: "https://github.com/aman71010/Keeper-app"
     },
     {
         id: 3,
         img: "assets/image2.png",
-        link: "https://github.com/aman71010/TinDog-Website"
+        //link: "https://github.com/aman71010/TinDog-Website"
     },
     {
         id: 4,
@@ -110,12 +110,12 @@ export const products = [
     {
         id: 5,
         img: "assets/image4.png",
-        link: "https://github.com/aman71010/Emojipedia"
+       // link: "https://github.com/aman71010/Emojipedia"
     },
     {
         id: 6,
         img: "assets/image6.png",
-        link: "https://github.com/aman71010/Simon-Game"
+       // link: "https://github.com/aman71010/Simon-Game"
     },
 
 ]
