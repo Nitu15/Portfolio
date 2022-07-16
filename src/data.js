@@ -120,4 +120,4 @@ export const skills = [
 
 ] 
 
-export const resumeLink = "https://drive.google.com/file/d/1P4Lpr9HT5hsI6MY_lNYZV0bz_VrG-b_B/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1w7I13HUBN-EubqH9SsxMhwiQJUOqYmH2/view?usp=sharing";
