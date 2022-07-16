@@ -86,38 +86,38 @@ export const skills = [
     },
 ];
 
-export const products = [
+ /*export const products = [
     {
         id: 1,
         img: "assets/ecommerce-img1.png",
-        //link: "https://github.com/aman71010/Ecommerce-Mern"
+        //link: "https://github.com/71010/Ecommerce-Mern"
     },
     {
         id: 2,
         img: "assets/image1.png",
-        //link: "https://github.com/aman71010/Keeper-app"
+        //link: "https://github.com/71010/Keeper-app"
     },
     {
         id: 3,
         img: "assets/image2.png",
-        //link: "https://github.com/aman71010/TinDog-Website"
+        //link: "https://github.com/71010/TinDog-Website"
     },
     {
         id: 4,
         img: "assets/image3.png",
-        //link: "https://github.com/aman71010/Todo"
+        //link: "https://github.com/71010/Todo"
     },
     {
         id: 5,
         img: "assets/image4.png",
-       // link: "https://github.com/aman71010/Emojipedia"
+       // link: "https://github.com/71010/Emojipedia"
     },
     {
         id: 6,
         img: "assets/image6.png",
-       // link: "https://github.com/aman71010/Simon-Game"
+       // link: "https://github.com/71010/Simon-Game"
     },
 
-]
+] */
 
 export const resumeLink = "https://drive.google.com/file/d/1P4Lpr9HT5hsI6MY_lNYZV0bz_VrG-b_B/view?usp=sharing";
