@@ -86,10 +86,10 @@ export const skills = [
     },
 ];
 
- /*export const products = [
+ export const products = [
     {
         id: 1,
-        img: "assets/ecommerce-img1.png",
+        img: "assets/newpic.jpeg",
         //link: "https://github.com/71010/Ecommerce-Mern"
     },
     {
@@ -118,6 +118,6 @@ export const skills = [
        // link: "https://github.com/71010/Simon-Game"
     },
 
-] */
+] 
 
 export const resumeLink = "https://drive.google.com/file/d/1P4Lpr9HT5hsI6MY_lNYZV0bz_VrG-b_B/view?usp=sharing";
